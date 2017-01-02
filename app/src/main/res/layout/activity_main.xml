@@ -22,4 +22,13 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/button" />
+
+    <Button
+        android:text="第二個按鈕!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="59dp"
+        android:id="@+id/button2"
+        android:layout_above="@+id/button"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
