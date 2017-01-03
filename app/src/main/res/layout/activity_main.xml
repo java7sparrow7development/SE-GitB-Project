@@ -75,4 +75,12 @@
         android:layout_alignEnd="@+id/button4"
         android:id="@+id/button7" />
 
+    <Button
+        android:text="八號按鈕在此"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button2"
+        android:layout_alignEnd="@+id/button7"
+        android:id="@+id/button8" />
+
 </RelativeLayout>
