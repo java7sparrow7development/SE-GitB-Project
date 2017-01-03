@@ -67,4 +67,12 @@
         android:layout_alignStart="@+id/button5"
         android:id="@+id/button6" />
 
+    <Button
+        android:text="七七七!!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_alignEnd="@+id/button4"
+        android:id="@+id/button7" />
+
 </RelativeLayout>
